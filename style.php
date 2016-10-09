@@ -65,6 +65,6 @@
     transition: all .5s ease;
 }
 
-#<?php echo $id?>.qx-element-blurb:hover .overlay {
+#<?php echo $id?>:hover .overlay {
   opacity: 1;
 }
